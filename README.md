@@ -1,3 +1,3 @@
 # Music-Player-Project
 
-For Web result: https://music-player-project-zeta.vercel.app/
+For Web result: https://music-player-project-nikgautam.vercel.app/
